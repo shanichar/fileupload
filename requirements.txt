@@ -13,3 +13,5 @@ requests==2.22.0
 smmap==3.0.4
 urllib3==1.25.11
 Werkzeug==1.0.1
+flask_wtf==1.0.1
+wtforms==3.0.1
